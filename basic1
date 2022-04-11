@@ -1,0 +1,11 @@
+import datetime
+
+#Enter name and year of birth
+import datetime
+
+name = input('Enter name: ')
+birth_year = int(input('Enter year of birth: '))
+year_now = int(datetime.datetime.now().year)
+
+age = year_now - birth_year
+print(f'Current age: {age} ')
