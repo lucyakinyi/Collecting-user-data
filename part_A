@@ -1,6 +1,6 @@
 import datetime
 
-#Enter name and year of birth
+#Enter name and year of birth to get age
 
 name = input('Enter name: ')
 birth_year = int(input('Enter year of birth: '))
