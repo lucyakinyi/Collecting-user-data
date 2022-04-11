@@ -1,7 +1,6 @@
 import datetime
 
 #Enter name and year of birth
-import datetime
 
 name = input('Enter name: ')
 birth_year = int(input('Enter year of birth: '))
